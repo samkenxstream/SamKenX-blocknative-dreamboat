@@ -69,8 +69,8 @@ require (
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.21.0 // indirect
-	golang.org/x/crypto v0.1.0 // indirect
-	golang.org/x/net v0.1.0 // indirect
+	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/cenkalti/backoff.v1 v1.1.0 // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
@@ -83,7 +83,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/websocket v1.5.0
 	github.com/r3labs/sse/v2 v2.8.1
-	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
 )
 
 replace github.com/supranational/blst => github.com/lukanus/blst v0.0.0-20221108180119-1ce3e6f62936
